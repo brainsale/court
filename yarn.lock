@@ -1986,6 +1986,13 @@
     "@ethersproject/properties" "^5.4.0"
     "@ethersproject/strings" "^5.4.0"
 
+"@kleros/pnk-merkle-drop-contracts@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@kleros/pnk-merkle-drop-contracts/-/pnk-merkle-drop-contracts-0.1.0.tgz#4428ba6748bcb07eed205d84a2758df29c4001b5"
+  integrity sha512-5krKY4cbRp7WOXDdghBB9mjGp5c+5WBK8Ueckc8t9qoSMp09LoIkMPd1NzsBnu2f0CgulhZ1bNLUeUN6DwKNJg==
+  dependencies:
+    "@openzeppelin/contracts" "^3.4.0"
+
 "@loadable/component@^5.5.0":
   version "5.15.0"
   resolved "https://registry.yarnpkg.com/@loadable/component/-/component-5.15.0.tgz#48b9524237be553f48b158f8c9152593f3f3fded"
@@ -2028,6 +2035,11 @@
   dependencies:
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
+
+"@openzeppelin/contracts@^3.4.0":
+  version "3.4.2"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-3.4.2.tgz#d81f786fda2871d1eb8a8c5a73e455753ba53527"
+  integrity sha512-z0zMCjyhhp4y7XKAcDAi3Vgms4T2PstwBdahiO0+9NaGICQKjynK3wduSRplTgk4LXmoO1yfDGO5RbjKYxtuxA==
 
 "@prettier/plugin-xml@^0.13.1":
   version "0.13.1"
